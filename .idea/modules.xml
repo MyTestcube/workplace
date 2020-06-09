@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firsttest/Factory/Factory.iml" filepath="$PROJECT_DIR$/firsttest/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gj19/Gj19.iml" filepath="$PROJECT_DIR$/Gj19/Gj19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software construction/Software construction.iml" filepath="$PROJECT_DIR$/Software construction/Software construction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firsttest/firsttest.iml" filepath="$PROJECT_DIR$/firsttest/firsttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workplace.iml" filepath="$PROJECT_DIR$/.idea/workplace.iml" />
+    </modules>
+  </component>
+</project>
