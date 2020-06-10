@@ -12,7 +12,7 @@ public class newSolution {
     public String Solution(int s){
 
         String result = null;
-        String previous="1";
+        String previous="2";
         if (s>1){
             for (int i=0;i<(s-1);i++)
             {
